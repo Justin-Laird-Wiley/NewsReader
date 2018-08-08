@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <!-- Background color for the numbers category -->
+    <color name="category_numbers">#FD8E09</color>
+
+    <!-- Background color for the family members category -->
+    <color name="category_family">#379237</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_colors">#8800A0</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_phrases">#16AFCA</color>
+
+
+    <!-- Background color for the family members category -->
+    <color name="category_bird_spots">#1976d2</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_train_stations">#63a4ff</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_night">#0085c1</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_trader_joes">#28b5f4</color>
+
+</resources>

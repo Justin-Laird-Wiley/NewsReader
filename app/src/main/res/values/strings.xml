@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsReader</string>
+
+    <string name="no_articles">No articles found</string>
+    <string name="no_internet">No internet</string>
+
+    <!-- Log strings -->
+    <!-- ArticleLoader -->
+    <string name="on_start_loading">Method onStartLoading</string>
+    <string name="load_in_background">Method loadInBackground</string>
+</resources>
